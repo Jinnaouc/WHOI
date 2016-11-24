@@ -1,0 +1,11 @@
+1、如何用vim一次性删除多行txt
+step1: 选中一行
+step2: shift + v  实现可视化
+step3: shift + g  选到最后一行
+       gg         从当前行选到第一行
+
+2、如何用vim删除17-34行？
+step1: shift + v 可视化
+step2: shift + ： 出现'<'>
+step2: 输入17,34d
+
