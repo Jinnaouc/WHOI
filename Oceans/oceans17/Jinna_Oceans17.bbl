@@ -21,10 +21,9 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{krizhevsky2012imagenet}
-A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton, ``Imagenet classification with
-  deep convolutional neural networks,'' in \emph{Advances in neural information
-  processing systems}, 2012, pp. 1097--1105.
+\bibitem{accv2016Dai}
+D.~Jialun, Y.~Zhibin, Z.~Haiyong, Z.~Bing, and W.~Nan, ``A hybrid convolutional
+  neural network for plankton classification,'' 2016.
 
 \bibitem{DBLP:journals/corr/OrensteinBPS15}
 \BIBentryALTinterwordspacing
@@ -34,9 +33,14 @@ E.~C. Orenstein, O.~Beijbom, E.~E. Peacock, and H.~M. Sosik, ``Whoi-plankton-
   Available: \url{http://arxiv.org/abs/1510.00745}
 \BIBentrySTDinterwordspacing
 
-\bibitem{yosinski2014transferable}
-J.~Yosinski, J.~Clune, Y.~Bengio, and H.~Lipson, ``How transferable are
-  features in deep neural networks?'' in \emph{Advances in neural information
-  processing systems}, 2014, pp. 3320--3328.
+\bibitem{krizhevsky2012imagenet}
+A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton, ``Imagenet classification with
+  deep convolutional neural networks,'' in \emph{Advances in neural information
+  processing systems}, 2012, pp. 1097--1105.
+
+\bibitem{DNN}
+U.~M. Dan, Ciresan and S.~Jurgen, ``Multi-column deep neural networks for image
+  classification,'' in \emph{2012 IEEE Conference on Computer Vision and
+  Pattern Recognition}, 2012, pp. 3642 -- 3649.
 
 \end{thebibliography}

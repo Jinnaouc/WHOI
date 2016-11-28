@@ -8,51 +8,53 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: Oceans17.bib
-Warning--I didn't find a database entry for "tang1998automatic"
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty booktitle in accv2016Dai
+Too many commas in name 1 of "Dan,Ciresan,Ueli,Meier and Jurgen,Schmidhuber" for entry DNN
+while executing---line 2403 of file IEEEtran.bst
 
 Done.
-You've used 3 entries,
+You've used 4 entries,
             4087 wiz_defined-function locations,
-            840 strings with 7969 characters,
-and the built_in function-call counts, 2685 in all, are:
-= -- 200
-> -- 67
-< -- 23
-+ -- 38
-- -- 11
-* -- 142
-:= -- 389
-add.period$ -- 6
-call.type$ -- 3
-change.case$ -- 3
-chr.to.int$ -- 60
-cite$ -- 3
-duplicate$ -- 177
-empty$ -- 217
-format.name$ -- 14
-if$ -- 614
+            845 strings with 8138 characters,
+and the built_in function-call counts, 3189 in all, are:
+= -- 230
+> -- 81
+< -- 24
++ -- 44
+- -- 14
+* -- 163
+:= -- 461
+add.period$ -- 8
+call.type$ -- 4
+change.case$ -- 4
+chr.to.int$ -- 63
+cite$ -- 5
+duplicate$ -- 219
+empty$ -- 275
+format.name$ -- 18
+if$ -- 736
 int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 30
-newline$ -- 34
-num.names$ -- 3
-pop$ -- 76
+int.to.str$ -- 4
+missing$ -- 38
+newline$ -- 37
+num.names$ -- 4
+pop$ -- 104
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 203
+skip$ -- 244
 stack$ -- 0
-substring$ -- 143
-swap$ -- 145
+substring$ -- 151
+swap$ -- 167
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 3
-warning$ -- 0
+type$ -- 4
+warning$ -- 1
 while$ -- 11
-width$ -- 4
-write$ -- 52
-(There was 1 warning)
+width$ -- 5
+write$ -- 59
+(There was 1 error message)
